@@ -52,9 +52,9 @@ title-img: "/assets/img/avatar-icon.png"
 social-network-links:
   email: "ryanparkr1@outlook.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  facebook: ryanparker
+  github: ryanparkr1
+#  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: "@daattali"
 #  whatsapp: 15551212
@@ -85,8 +85,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
-
+rss-description: Ryan Parker Blog
 ###########################
 # --- General options --- #
 ###########################
@@ -100,7 +99,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "MyWebsite.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -126,7 +125,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "ryan,parker,blog,crypto,gaffney,sc"
 
 ######################################
 # --- Colours / background image --- #
