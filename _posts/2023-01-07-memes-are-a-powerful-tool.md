@@ -2,9 +2,9 @@
 layout: post
 title: Memes are a powerful tool
 subtitle: It was Elon Musk who once said “Who controls the memes, controls the universe
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img:
+thumbnail-img: /assets/img/elontweet.png
+share-img: /assets/img/elontweet.png
 tags: [memes, crypto]
 author: Ryan Parker
 ---
