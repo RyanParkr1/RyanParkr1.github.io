@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Ryan Parker. This is my personal blog where I publish long form thoughts on a lot of topics(Life, Crypto, Politics etc…)
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+This blog is mostly for me to look back on but if I post something on here that's useful to someone else then even better.
 
-What else do you need?
+If you want to contact me, check out the links at the bottom. 👇
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Thanks for stopping by.
