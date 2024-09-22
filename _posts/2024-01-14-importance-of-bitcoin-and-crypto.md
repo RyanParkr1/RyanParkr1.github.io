@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Importance of Bitcoin & Crypto
-subtitle:
+subtitle: So why does bitcoin and crypto matter in our rapidly evolving global landscape?
 tags: [bitcoin, crypto]
-comments: true
-mathjax: true
 author: Ryan Parker
 ---
 
