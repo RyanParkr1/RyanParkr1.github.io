@@ -134,14 +134,14 @@ keywords: "ryan,parker,blog,crypto,gaffney,sc"
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 page-col: "#FFFFFF"
-text-col: "#00008"
+text-col: "#000008"
 link-col: "#3600ff"
 hover-col: "#4a1aff"
 navbar-col: "#c4c4c4"
-navbar-text-col: "#00008"
+navbar-text-col: "#000008"
 navbar-border-col: "#DDDDDD"
 footer-col: "#c4c4c4"
-footer-text-col: "#00008"
+footer-text-col: "#000008"
 footer-link-col: "#404040"
 footer-hover-col: "#1d00a1"
 
